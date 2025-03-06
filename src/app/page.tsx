@@ -18,7 +18,7 @@ export default function Home() {
             {/* Image Column */}
             <div className="relative h-[400px] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 p-12">
               <Image
-                src="/acelogo.png"
+                src="/ace/acelogo.png"
                 alt="Aishwarya College Campus"
                 fill
                 className="object-contain !p-4 max-w-[80%] mx-auto"
@@ -189,18 +189,18 @@ const courses = [
     title: "Bachelor of Computer Applications (BCA)",
     description:
       "A three-year undergraduate program focusing on computer applications and software development",
-    image: "/courses/bca.png",
+    image: "/ace/courses/bca.png",
   },
   {
     id: 2,
     title: "Bachelor of Science (B.Sc)",
     description: "Master the fundamentals of data science and analytics",
-    image: "/courses/bsc.png",
+    image: "/ace/courses/bsc.png",
   },
   {
     id: 3,
     title: "Bachelor of Commerce (B.Com)",
     description: "Learn modern digital marketing strategies and techniques",
-    image: "/courses/bcom.png",
+    image: "/ace/courses/bcom.png",
   },
 ];

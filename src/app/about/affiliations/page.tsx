@@ -108,7 +108,7 @@ export default function Affiliations() {
 const affiliations = [
   {
     name: "Jai Narain Vyas University(JNVU), Jodhpur",
-    logo: "/about/jnvu.jpg", // Add university logo
+    logo: "/ace/about/jnvu.jpg", // Add university logo
     description:
       "Jai Narain Vyas University(JNVU), Jodhpur, formerly known as University of Jodhpur, is a prominent state university located in Jodhpur, Rajasthan. It has been a pioneer in higher education in Western Rajasthan since its establishment.",
     location: "Jodhpur, Rajasthan",

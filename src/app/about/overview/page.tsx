@@ -8,7 +8,7 @@ export default function AboutOverview() {
         {/* Hero Section */}
         <div className="relative rounded-xl overflow-hidden mb-12 h-[300px] sm:h-[400px]">
           <Image
-            src="/college-logo.png" // Add your hero image
+            src="/ace/college-logo.png" // Add your hero image
             alt="Aishwarya College Campus"
             fill
             className="object-cover"

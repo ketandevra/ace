@@ -99,7 +99,7 @@ export default function Navbar() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/college-logo.png"
+                src="/ace/college-logo.png"
                 alt="Aishwarya College Logo"
                 width={50}
                 height={50}

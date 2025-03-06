@@ -5,24 +5,14 @@ import Image from 'next/image';
 
 const images = [
   {
-    url: '/slider/slide1.jpeg',
+    url: '/ace/slider/slide1.jpeg',
     alt: 'College Campus',
     caption: 'Welcome to Aishwarya College'
   },
   {
-    url: '/slider/slide2.jpeg',
+    url: '/ace/slider/slide2.jpeg',
     alt: 'College Library',
     caption: 'State-of-the-art Library'
-  },
-  {
-    url: '/slider/slide3.jpg',
-    alt: 'College Lab',
-    caption: 'Modern Computer Labs'
-  },
-  {
-    url: '/slider/slide4.jpg',
-    alt: 'College Events',
-    caption: 'Cultural Activities'
   }
 ];
 

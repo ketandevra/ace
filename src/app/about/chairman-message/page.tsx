@@ -23,7 +23,7 @@ export default function ChairmanMessage() {
                   <div className="aspect-[3/4] relative rounded-t-2xl overflow-hidden">
                     <div className="absolute inset-0 bg-white dark:bg-gray-800">
                       <Image
-                        src="/about/chairman.png"
+                        src="/ace/about/chairman.png"
                         alt="College Chairman"
                         fill
                         className="object-contain"

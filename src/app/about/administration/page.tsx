@@ -72,27 +72,27 @@ const administrators = [
     position: "Managing Director",
     email: "director@ace.edu.in",
     phone: "+91 9876543210",
-    image: "/about/director.png"
+    image: "/ace/about/director.png"
   },
   {
     name: "Varun Chouhan",
     position: "Marketing Executive",
     email: "marketing@ace.edu.in",
     phone: "+91 9876543211",
-    image: "/about/varun.jpg"
+    image: "/ace/about/varun.jpg"
   },
   {
     name: "Bhom Singh Rathore",
     position: "Network Administrator",
     email: "network@ace.edu.in",
     phone: "+91 9876543212",
-    image: "/about/BhomSinghRathore.jpg"
+    image: "/ace/about/BhomSinghRathore.jpg"
   },
   {
     name: "Rajaram",
     position: "Office In-charge",
     email: "office@ace.edu.in",
     phone: "+91 9876543213",
-    image: "/about/rajaram.jpg"
+    image: "/ace/about/rajaram.jpg"
   }
 ]; 
