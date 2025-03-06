@@ -23,7 +23,7 @@ export default function PrincipalMessage() {
                   <div className="aspect-[3/4] relative rounded-t-2xl overflow-hidden">
                     <div className="absolute inset-0 bg-white dark:bg-gray-800">
                       <Image
-                        src="/ketandevra.github.io/about/director.png"
+                        src="/ace/about/director.png"
                         alt="College Director"
                         fill
                         className="object-contain"
